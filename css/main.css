@@ -1,0 +1,50 @@
+body{
+    background: #EDF5F1;
+}
+.block{
+    margin: auto;
+    background: #EDF5F1;
+    width: 1200px;
+    height: 800px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 1rem;
+
+}
+.line{
+    color: #51C0A1;
+    font-size: 28px;
+}
+.katta{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.box{
+    background-color: #FFFFFF;
+    width: 320px;
+    text-align: left;
+    padding:2rem;
+    box-sizing: border-box;
+    margin: auto;
+
+}
+p b{
+    font-size: large;
+}
+.narx{
+    font-size:38px ;
+    font-family: sans-serif;
+    word-spacing: 2px;
+}
+td{
+    width: 200px;
+    height: 10px;
+    text-align: center;
+}
+td b{
+    font-family: sans-serif;
+    font-size: 19px;
+}
